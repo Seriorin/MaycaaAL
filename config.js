@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281223918622','6281574941420','6283128816155']
+global.owner = ['6283128816155']
 global.ownernomer = "6281223918622"
-global.premium = ['6281223918622','6281574941420','6283128816155']
+global.premium = ['6283128816155']
 global.packname = 'Natasya Els'
 global.author = 'Natasya'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
